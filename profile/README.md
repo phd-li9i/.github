@@ -1,4 +1,4 @@
-This organisation hosts some of the repositories that I, Alexandros Philotheou, am permitted to make public, which are the result of my PhD studies in the Department of Electrical and Computer Engineering, at the Aristotelian University of Thessaloniki, during the years 2018-2023.
+This organisation hosts some of the repositories which are the result of my PhD studies in the Department of Electrical and Computer Engineering, at the Aristotelian University of Thessaloniki, during the years 2018-2023.
 
 My research has led to the following publications in the fields of Navigation and Localisation in Mobile Robotics:
 - [2023 | ARRAY] [Correspondenceless scan-to-map-scan matching of 2D panoramic range scans](https://www.sciencedirect.com/science/article/pii/S2590005623000139)
