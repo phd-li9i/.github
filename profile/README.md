@@ -1,6 +1,7 @@
 This organisation hosts some of the repositories which are the result of my PhD studies in the Department of Electrical and Computer Engineering, at the Aristotle University of Thessaloniki, during the years 2018-2023.
 
 My research has led to the following publications in the fields of Navigation and Localisation in Mobile Robotics:
+- [2024 | IEEE IROS] [CBGL: Fast Monte Carlo Passive Global Localisation of 2D LIDAR Sensor](https://ieeexplore.ieee.org/abstract/document/10802235)
 - [2023 | ARRAY] [Correspondenceless scan-to-map-scan matching of 2D panoramic range scans](https://www.sciencedirect.com/science/article/pii/S2590005623000139)
 - [2022 | IEEE IROS] [FSM: Correspondenceless scan-matching of panoramic 2D range scans](https://ieeexplore.ieee.org/abstract/document/9981228)
 - [2021 | RAS] [Correspondenceless scan-to-map-scan matching of homoriented 2D scans for mobile robot localisation](https://www.sciencedirect.com/science/article/pii/S0921889021002323)
